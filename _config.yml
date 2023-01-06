@@ -26,10 +26,13 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
     
+header_pages:
+  - about.html
+  - archive.html
+
 plugins:
   - jekyll-sitemap
-  
-# - jekyll-feed
+  - jekyll-feed
 
 titles_from_headings:
   strip_title: true
