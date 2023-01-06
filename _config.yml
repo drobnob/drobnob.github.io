@@ -27,7 +27,7 @@ kramdown:
     disable: true
     
 header_pages:
-  - about.html
+  - about.md
   - archive.md
 
 plugins:
