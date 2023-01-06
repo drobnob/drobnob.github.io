@@ -43,4 +43,4 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Other
+      tags: Other, Public Health
