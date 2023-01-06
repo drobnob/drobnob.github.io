@@ -28,7 +28,7 @@ kramdown:
     
 header_pages:
   - about.html
-  - archive.html
+  - archive.md
 
 plugins:
   - jekyll-sitemap
