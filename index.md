@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Dabble in and around things like sustainability, climate change, self-improvement, stoicism, and how to make my fantasy baseball team better. 
 
-Maybe say a some things about yourself.
+Born around 355 ppm in the PNW. I am a public health professional. 
 
-Or maybe what you plan to blog about.
+It's probably mainly just me reading this site, so I'm glad you're here. 
