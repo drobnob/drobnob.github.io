@@ -43,4 +43,6 @@ defaults:
       path: ""
       type: post
     values:
-      tags: Climate Other
+      tags: 
+        - Climate
+        - Other
