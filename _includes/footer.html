@@ -1,10 +1,16 @@
+
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
 
   <div class="wrapper">
+  <style>
+  div {
+  padding-left: 1%;   
+}  
+    </style>
 
     <div class="footer-col-wrapper">
-      <div class="footer-col-3">
+      <div class="footer-col">
         <p class="feed-subscribe">
           <a href="ryandrobny@pm.me">
             <span>ryandrobny@pm.me</span>
@@ -21,7 +27,7 @@
         </ul>
       {%- endif %}
       </div>
-      <div class="footer-col-9">
+      <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
