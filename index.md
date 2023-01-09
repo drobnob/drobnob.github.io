@@ -1,3 +1,2 @@
-A personal website by me, Ryan.
 
-Welcome.
+Welcome to my site.
