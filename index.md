@@ -5,4 +5,4 @@ I like to get my thoughts out there but by no means do I intend for these posts 
 
 Expect frequent changes, additions, edits, etc. 
 
-Writing is a thing a do, not something I claim to be 'good' at doing. 
+Writing is a thing I do, not something I claim to be 'good' at doing. 
