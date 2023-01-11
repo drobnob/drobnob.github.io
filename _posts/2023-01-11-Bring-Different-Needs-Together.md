@@ -6,7 +6,7 @@ tags: Other
 
 ## Bring Different Needs Together
 
-There are no shortages of changes society needs to make. Combating cliamte change remains the defining problem of our time but there are other pressing needs all around the world. The [UN's 17 Sustinability goals] (https://sdgs.un.org/goals) is a good place to start. 
+There are no shortages of changes society needs to make. Combating cliamte change remains the defining problem of our time but there are other pressing needs all around the world. The [UN's 17 Sustinability goals](https://sdgs.un.org/goals) is a good place to start. 
 
 Three of those goals include fighting poverty, achieving good health and well-being, and building sustainable cities and communites. Many of these challenges are at their most difficult in the developing world. This doesn't mean the U.S. cannot be a proving ground for innovating solutions to these problems. 
 
