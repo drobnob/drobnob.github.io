@@ -15,9 +15,9 @@ The [UN's 17 Sustinability goals](https://sdgs.un.org/goals) are a good place to
 I believe there are needs in some areas that can be met by needs in others. 
 
 Three specific (but otherwise random) Sustainability goals are 
-  1) fighting poverty, 
-  2) achieving good health and well-being, and 
-  3) building sustainable cities and communites.
+  -1) fighting poverty, 
+  -2) achieving good health and well-being, and 
+  -3) building sustainable cities and communites.
 
 Many of these challenges are at their most difficult in the developing world. But this doesn't mean the U.S. can't be a proving ground for innoative solutions to these problems. Many rural communites in the U.S. are struggeling with these three problems. 
 
