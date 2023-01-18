@@ -10,7 +10,7 @@ There are no shortages of changes society needs to make. Combating cliamte chang
 
 The [UN's 17 Sustinability goals](https://sdgs.un.org/goals) are a good place to start. 
 
-# Is there a way to address some of these problems at the same time? 
+**Is there a way to address some of these problems at the same time?**
 
 I believe there are needs in some areas that can be met by needs in others. 
 
