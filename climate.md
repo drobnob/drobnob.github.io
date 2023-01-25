@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climate Emergency
+title: Climate
 ---
 
 <span style="color:green">**We are in a climate emergency**</span>
