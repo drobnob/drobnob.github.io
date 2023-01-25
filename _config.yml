@@ -28,7 +28,7 @@ kramdown:
     
 header_pages:
   - about.md
-  - climate-emergency.md
+  - climate.md
   - archive.md
 
 plugins:
